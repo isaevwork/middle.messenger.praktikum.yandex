@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd279951-f565-4d94-85a2-5387a8627b08" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/searchIcon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/avatar/avatar.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/chatSearchingInput/chatSearchingInput.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/chatSearchingInput/chatSearchingInput.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/formInput/formInput.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/chats/chats.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/chats/chats.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/errors/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/errors/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/errors/errorStyle.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/login.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/signIn/signIn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/signIn/signIn.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/button.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/chatDialog/chatDialog.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/chatDialog/chatDialog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/chatsItem/chatsItem.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/chatsItem/chatsItem.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/errorBlock.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/link.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/сhatListWithSearch/сhatListWithSearch.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/сhatListWithSearch/сhatListWithSearch.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsonfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vite.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "sprint__1",
+    "javascript.nodejs.core.library.configured.version": "22.0.0",
+    "javascript.nodejs.core.library.typings.version": "20.14.10",
+    "last_opened_file_path": "/Users/liamsav/Develop/middle.messenger.praktikum.yandex",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "npm.start.executor": "Run",
+    "ts.external.directory.path": "/Users/liamsav/Develop/middle.messenger.praktikum.yandex/node_modules/typescript/lib"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
