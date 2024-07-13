@@ -4,39 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd279951-f565-4d94-85a2-5387a8627b08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/searchIcon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/avatar/avatar.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/chatSearchingInput/chatSearchingInput.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/chatSearchingInput/chatSearchingInput.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/formInput/formInput.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/chats/chats.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/chats/chats.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/errors/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/errors/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/errors/errorStyle.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/login/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/login/login.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/signIn/signIn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/signIn/signIn.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/button.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/chatDialog/chatDialog.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/chatDialog/chatDialog.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/chatsItem/chatsItem.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/chatsItem/chatsItem.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/errorBlock.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/link.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/сhatListWithSearch/сhatListWithSearch.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/сhatListWithSearch/сhatListWithSearch.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsonfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vite.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="bd279951-f565-4d94-85a2-5387a8627b08" name="Changes" comment="[sprint_1] added basic layout">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.mjs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="sprint_1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,13 +26,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "sprint__1",
+    "git-widget-placeholder": "develop",
     "javascript.nodejs.core.library.configured.version": "22.0.0",
     "javascript.nodejs.core.library.typings.version": "20.14.10",
     "last_opened_file_path": "/Users/liamsav/Develop/middle.messenger.praktikum.yandex",
     "node.js.selected.package.tslint": "(autodetect)",
     "npm.start.executor": "Run",
-    "ts.external.directory.path": "/Users/liamsav/Develop/middle.messenger.praktikum.yandex/node_modules/typescript/lib"
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -88,9 +58,19 @@
     </recent_temporary>
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="[sprint_1] added basic layout">
+      <option name="closed" value="true" />
+      <created>1720909909178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720909909178</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="[sprint_1] added basic layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="[sprint_1] added basic layout" />
   </component>
 </project>
