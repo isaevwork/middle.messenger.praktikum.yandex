@@ -4,41 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd279951-f565-4d94-85a2-5387a8627b08" name="Changes" comment="[sprint_1] merge changes from develop">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/tests.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/tests.yml" afterDir="false" />
+    <list default="true" id="bd279951-f565-4d94-85a2-5387a8627b08" name="Changes" comment="[sprint_1] added prettier rules">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/avatar/avatar.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/avatar/avatar.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/modules/chatSearchingInput/chatSearchingInput.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/chatSearchingInput/chatSearchingInput.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/chatSearchingInput/chatSearchingInput.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/chatSearchingInput/chatSearchingInput.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/modules/formInput/formInput.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/formInput/formInput.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/infoItemInput/infoItemInput.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/infoItemInput/infoItemInput.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/infoItemInput/infoItemInput.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/infoItemInput/infoItemInput.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/chats/chats.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/chats/chats.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/chats/chats.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/chats/chats.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/errors/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/errors/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/errors/500.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/errors/500.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/errors/errorStyle.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/errors/errorStyle.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/login/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/login/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/login/login.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/login/login.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/signIn/signIn.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/signIn/signIn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/signIn/signIn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/signIn/signIn.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/userInfo/userInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/userInfo/userInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/userInfo/userInfo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/userInfo/userInfo.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/button.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/button.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/chatDialog/chatDialog.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/chatDialog/chatDialog.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/chatsItem/chatsItem.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/chatsItem/chatsItem.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/errorBlock.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/errorBlock.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/link.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/link.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/chatDialog/chatDialog.scss" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/shared/userAsideReturn/userAsideReturn.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/userAsideReturn/userAsideReturn.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/userAsideReturn/userAsideReturn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/userAsideReturn/userAsideReturn.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/userInfoBlock/userInfoBlock.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/userInfoBlock/userInfoBlock.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/сhatListWithSearch/сhatListWithSearch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/сhatListWithSearch/сhatListWithSearch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsonfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsonfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vite.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.mjs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,13 +105,22 @@
       <option name="project" value="LOCAL" />
       <updated>1720940095915</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[sprint_1] added prettier rules">
+      <option name="closed" value="true" />
+      <created>1720951787107</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720951787107</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[sprint_1] added basic layout" />
     <MESSAGE value="[sprint_1] fix build error" />
     <MESSAGE value="[sprint_1] merge changes from develop" />
-    <option name="LAST_COMMIT_MESSAGE" value="[sprint_1] merge changes from develop" />
+    <MESSAGE value="[sprint_1] added prettier rules" />
+    <option name="LAST_COMMIT_MESSAGE" value="[sprint_1] added prettier rules" />
   </component>
 </project>

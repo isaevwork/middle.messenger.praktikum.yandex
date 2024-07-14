@@ -15,15 +15,12 @@
       <div class="loginWrapper">
         <h2>Вход</h2>
         <form class="loginForm">
-          {{> formInput/formInput class="loginInput" label="Логин" name="login"
-          type="text" placeholder="Логин" warning="Неверный логин"
-          showError=true}} {{> formInput/formInput class="loginInput"
-          label="Пароль" name="password" type="password" placeholder="Пароль"
-          showError=false}} {{> button class="loginButton" text="Авторизоваться"
-          type="submit"}}
+          {{> formInput/formInput class="loginInput" label="Логин" name="login" type="text" placeholder="Логин"
+          warning="Неверный логин" showError=true}} {{> formInput/formInput class="loginInput" label="Пароль"
+          name="password" type="password" placeholder="Пароль" showError=false}} {{> button class="loginButton"
+          text="Авторизоваться" type="submit"}}
         </form>
-        {{> link class="loginLink" text="Нет аккаунта?"
-        href="../signIn/signIn.html"}}
+        {{> link class="loginLink" text="Нет аккаунта?" href="../signIn/signIn.html"}}
       </div>
     </main>
   </body>

@@ -24,10 +24,7 @@ export default defineConfig({
   },
   plugins: [
     handlebars({
-      partialDirectory: [
-        resolve(__dirname, 'src/modules'),
-        resolve(__dirname, 'src/shared'),
-      ],
+      partialDirectory: [resolve(__dirname, 'src/modules'), resolve(__dirname, 'src/shared')],
       context: {},
     }),
   ],
