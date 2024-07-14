@@ -1,1 +1,16 @@
-<div class="{{class}}">    <label class="customInputLabel" for={{name}}>        {{label}}        <div class="customInputContainer">            <input class="customInputField" type={{type}} placeholder={{placeholder}} name={{name}} />            {{#if showError}}                <div class="errorMessage">{{warning}}</div>            {{/if}}        </div>    </label></div>
+<div class='{{class}}'>
+  <label class='customInputLabel' for={{name}}>
+    {{label}}
+    <div class='customInputContainer'>
+      <input
+        class='customInputField'
+        type={{type}}
+        placeholder={{placeholder}}
+        name={{name}}
+      />
+      {{#if showError}}
+        <div class='errorMessage'>{{warning}}</div>
+      {{/if}}
+    </div>
+  </label>
+</div>
