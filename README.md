@@ -8,12 +8,12 @@
 
 # Запуск разработки
 
-- 'npm install'
-- 'npm run start'
+- npm install
+- npm run start
 
 # Запуск сборки
 
-- 'npm run build'
+- npm run build
 
 # Ознакомиться можно тут
 

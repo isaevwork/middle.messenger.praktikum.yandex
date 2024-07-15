@@ -14,7 +14,7 @@
   --user-primary: #3369f3;
   --user-red: #ff2f2f;
   --user-green: #1edd77;
-
+  
   --warning-color: var(--user-red);
   --success-color: var(--user-green);
 
@@ -40,6 +40,7 @@ body {
   height: 100vh;
   gap: 30px;
   background-color: rgba(164, 213, 207, 0.45);
+
   h1 {
     color: var(--user-black);
     font-size: 40px;
@@ -69,3 +70,4 @@ body {
     }
   }
 }
+

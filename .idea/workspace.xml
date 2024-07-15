@@ -4,18 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd279951-f565-4d94-85a2-5387a8627b08" name="Changes" comment="[sprint_1] added prettier rules">
+    <list default="true" id="bd279951-f565-4d94-85a2-5387a8627b08" name="Changes" comment="[sprint_1] внес правки согласно замечаниям на ревью">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/button/button.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/editingInput/editingInput.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/link/link.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/editUserInfo/editUserInfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/editUserInfo/editUserInfo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/editingInfo/editingInfo.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/editingInfo/editingInfo.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/avatar/avatar.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/avatar/avatar.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/modules/chatSearchingInput/chatSearchingInput.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/chatSearchingInput/chatSearchingInput.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/chatSearchingInput/chatSearchingInput.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/chatSearchingInput/chatSearchingInput.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/modules/formInput/formInput.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/formInput/formInput.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/infoItemInput/infoItemInput.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/infoItem/infoItem.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/infoItemInput/infoItemInput.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/infoItem/infoItem.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/chats/chats.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/chats/chats.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/chats/chats.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/chats/chats.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/errors/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/errors/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/errors/500.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/errors/500.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/errors/errorStyle.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/errors/errorStyle.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/login/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/login/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/signIn/signIn.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/signIn/signIn.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/userInfo/userInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/userInfo/userInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/chatDialog/chatDialog.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/userInfo/userInfo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/userInfo/userInfo.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/button.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/chatsItem/chatsItem.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/chatsItem/chatsItem.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/chatsItem/chatsItem.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/chatsItem/chatsItem.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/errorBlock.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/errorBlock/errorBlock.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/link.hbs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/shared/userAsideReturn/userAsideReturn.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/userAsideReturn/userAsideReturn.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/userAsideReturn/userAsideReturn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/userAsideReturn/userAsideReturn.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/userInfoBlock/userInfoBlock.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/userInfoBlock/userInfoBlock.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/userInfoBlock/userInfoBlock.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/userInfoBlock/userInfoBlock.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/сhatListWithSearch/сhatListWithSearch.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/сhatListWithSearch/сhatListWithSearch.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/сhatListWithSearch/сhatListWithSearch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/сhatListWithSearch/сhatListWithSearch.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,27 +62,57 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;isaevwork&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/isaevwork/middle.messenger.praktikum.yandex.git&quot;,
+    &quot;accountId&quot;: &quot;b63c751f-3318-4aea-9aca-15a9b77123f8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2jGnZ4qQBAf1BKxVKblEU6J9oV5" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "sprint__1",
     "javascript.nodejs.core.library.configured.version": "22.0.0",
     "javascript.nodejs.core.library.typings.version": "20.14.10",
     "last_opened_file_path": "/Users/liamsav/Develop/middle.messenger.praktikum.yandex",
+    "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "npm.start.executor": "Run",
     "prettierjs.PrettierConfiguration.Package": "/Users/liamsav/Develop/middle.messenger.praktikum.yandex/node_modules/prettier",
-    "settings.editor.selected.configurable": "actions.on.save",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external"
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "ts.external.directory.path": "/Users/liamsav/Develop/middle.messenger.praktikum.yandex/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/modules/button" />
+      <recent name="$PROJECT_DIR$/src/shared/errorBlock" />
+      <recent name="$PROJECT_DIR$/src/modules/link" />
     </key>
   </component>
   <component name="RunManager">
@@ -80,6 +139,7 @@
       </set>
     </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="[sprint_1] added basic layout">
       <option name="closed" value="true" />
@@ -113,14 +173,36 @@
       <option name="project" value="LOCAL" />
       <updated>1720951787107</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[sprint_1] fix tests">
+      <option name="closed" value="true" />
+      <created>1720952119830</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720952119830</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd279951-f565-4d94-85a2-5387a8627b08" name="Changes" comment="[sprint_1] fix tests" />
+      <created>1721022334683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721022334683</updated>
+      <workItem from="1721022336229" duration="570000" />
+      <workItem from="1721022914934" duration="30260000" />
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[sprint_1] added basic layout" />
     <MESSAGE value="[sprint_1] fix build error" />
     <MESSAGE value="[sprint_1] merge changes from develop" />
     <MESSAGE value="[sprint_1] added prettier rules" />
-    <option name="LAST_COMMIT_MESSAGE" value="[sprint_1] added prettier rules" />
+    <MESSAGE value="[sprint_1] fix tests" />
+    <MESSAGE value="[sprint_1] внес правки согласно замечаниям на ревью" />
+    <option name="LAST_COMMIT_MESSAGE" value="[sprint_1] внес правки согласно замечаниям на ревью" />
   </component>
 </project>

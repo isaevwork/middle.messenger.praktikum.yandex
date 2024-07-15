@@ -1,27 +1,29 @@
 <!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
-    />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link rel="stylesheet" href="login.scss" />
-    <title>Авторизация</title>
-  </head>
-  <body>
-    <main class="loginMain">
-      <div class="loginWrapper">
-        <h2>Вход</h2>
-        <form class="loginForm">
-          {{> formInput/formInput class="loginInput" label="Логин" name="login" type="text" placeholder="Логин"
-          warning="Неверный логин" showError=true}} {{> formInput/formInput class="loginInput" label="Пароль"
-          name="password" type="password" placeholder="Пароль" showError=false}} {{> button class="loginButton"
-          text="Авторизоваться" type="submit"}}
-        </form>
-        {{> link class="loginLink" text="Нет аккаунта?" href="../signIn/signIn.html"}}
-      </div>
-    </main>
-  </body>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+  />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <link rel="stylesheet" href="login.scss" />
+  <title>Авторизация</title>
+</head>
+<body>
+<main class="loginMain">
+  <div class="loginWrapper">
+    <h2>Вход</h2>
+    <form class="loginForm">
+      {{> formInput/formInput class="loginInput" label="Логин" name="login" type="text" placeholder="Логин" warning="Неверный логин" showError=true}}
+      {{> formInput/formInput class="loginInput" label="Пароль" name="password" type="password" placeholder="Пароль" showError=false}}
+      {{> button/button class="loginButton" text="Авторизоваться" type="submit" onclick="/" }}
+    </form>
+    {{> link/link class="loginLink" text="Нет аккаунта?" href="../signIn/signIn.html"}}
+  </div>
+</main>
+</body>
 </html>
+
+
+

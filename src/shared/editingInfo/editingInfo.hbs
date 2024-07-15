@@ -1,0 +1,18 @@
+<link rel="stylesheet" href="../../shared/editingInfo/editingInfo.scss" />
+
+<div class="profileInfoFormContainer">
+  <div class="profileInfoFormWrapper">
+    {{> avatar/avatar avatar="../../assets/img/avatar.png" alt='avatar' class="InfoAvatar" }}
+    <form class="profileInfoForm">
+      {{> editingInput/editingInput type="email" labelName="Почта" inputName="email" value="pochta@yandex.ru" id="emailInput" class="infoClass" }}
+      {{> editingInput/editingInput type="text" labelName="Логин" inputName="login" value="ivanivanov" id="loginInput" class="infoClass" }}
+      {{> editingInput/editingInput type="text" labelName="Имя" inputName="first_name" value="Иван" id="firstNameInput" class="infoClass" }}
+      {{> editingInput/editingInput type="text" labelName="Фамилия" inputName="second_name" value="Иванов" id="secondNameInput" class="infoClass" }}
+      {{> editingInput/editingInput type="text" labelName="Имя в чате" inputName="display_name" value="Иван" id="displayNameInput" class="infoClass" }}
+      {{> editingInput/editingInput type="phone" labelName="Телефон" inputName="phone" value="+7 (909) 967 30 30" id="phoneInput" class="infoClass" }}
+      <div class="profileSettingsBlock">
+        {{> button/button class="profileSettingsButton" text="Сохранить" type="submit" onclick="/" }}
+      </div>
+    </form>
+  </div>
+</div>
