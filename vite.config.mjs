@@ -14,6 +14,7 @@ export default defineConfig({
         signIn: resolve(__dirname, './src/pages/signIn/signIn.html'),
         chats: resolve(__dirname, './src/pages/chats/chats.html'),
         userInfo: resolve(__dirname, './src/pages/userInfo/userInfo.html'),
+        editUserInfo: resolve(__dirname, './src/pages/editUserInfo/editUserInfo.html'),
         error404: resolve(__dirname, './src/pages/errors/404.html'),
         error500: resolve(__dirname, './src/pages/errors/500.html'),
       },
