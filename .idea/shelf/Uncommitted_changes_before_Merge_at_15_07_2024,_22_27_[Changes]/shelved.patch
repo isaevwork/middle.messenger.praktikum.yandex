@@ -1,0 +1,34 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"bd279951-f565-4d94-85a2-5387a8627b08\" name=\"Changes\" comment=\"[sprint_1] fix build error\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/README.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/README.md\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"sprint_1\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"git-widget-placeholder\": \"develop\",\n    \"javascript.nodejs.core.library.configured.version\": \"22.0.0\",\n    \"javascript.nodejs.core.library.typings.version\": \"20.14.10\",\n    \"last_opened_file_path\": \"/Users/liamsav/Develop/middle.messenger.praktikum.yandex\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"npm.start.executor\": \"Run\",\n    \"ts.external.directory.path\": \"/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n  </component>\n  <component name=\"RunManager\">\n    <configuration name=\"start\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\n      <command value=\"run\" />\n      <scripts>\n        <script value=\"start\" />\n      </scripts>\n      <node-interpreter value=\"project\" />\n      <envs />\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"npm.start\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"TaskManager\">\n    <task id=\"LOCAL-00001\" summary=\"[sprint_1] added basic layout\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1720909909178</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1720909909178</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"[sprint_1] fix build error\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1720913401966</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1720913401966</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"[sprint_1] added basic layout\" />\n    <MESSAGE value=\"[sprint_1] fix build error\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"[sprint_1] fix build error\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision d87fca346a960dd84ccecd63ffb78675b2fce9b7)
++++ b/.idea/workspace.xml	(date 1721071601849)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="bd279951-f565-4d94-85a2-5387a8627b08" name="Changes" comment="[sprint_1] fix build error">
++    <list default="true" id="bd279951-f565-4d94-85a2-5387a8627b08" name="Changes" comment="[sprint_1] внес правки согласно замечаниям на ревью">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+     </list>
+@@ -26,13 +26,12 @@
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
+-    "git-widget-placeholder": "develop",
+     "javascript.nodejs.core.library.configured.version": "22.0.0",
+     "javascript.nodejs.core.library.typings.version": "20.14.10",
+     "last_opened_file_path": "/Users/liamsav/Develop/middle.messenger.praktikum.yandex",
+     "node.js.selected.package.tslint": "(autodetect)",
+     "npm.start.executor": "Run",
+-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external"
++    "ts.external.directory.path": "/Users/liamsav/Develop/middle.messenger.praktikum.yandex/node_modules/typescript/lib"
+   }
+ }]]></component>
+   <component name="RecentsManager">
