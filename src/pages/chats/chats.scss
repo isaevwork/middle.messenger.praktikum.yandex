@@ -1,0 +1,18 @@
+.chatsMain {
+}
+
+.chatsWrapper {
+  form {
+    display: flex;
+  }
+}
+
+.dialogContainer {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  color: var(--user-grey);
+  font-size: 12px;
+}
+

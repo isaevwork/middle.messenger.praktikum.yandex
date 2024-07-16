@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd279951-f565-4d94-85a2-5387a8627b08" name="Changes" comment="[sprint_1] update dev branch for deployment" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;isaevwork&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/isaevwork/middle.messenger.praktikum.yandex.git&quot;,
+    &quot;accountId&quot;: &quot;b63c751f-3318-4aea-9aca-15a9b77123f8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2jGnZ4qQBAf1BKxVKblEU6J9oV5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "sprint__1",
+    "javascript.nodejs.core.library.configured.version": "22.0.0",
+    "javascript.nodejs.core.library.typings.version": "20.14.10",
+    "last_opened_file_path": "/Users/liamsav/Develop/middle.messenger.praktikum.yandex",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.start.executor": "Run",
+    "prettierjs.PrettierConfiguration.Package": "/Users/liamsav/Develop/middle.messenger.praktikum.yandex/node_modules/prettier",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "ts.external.directory.path": "/Users/liamsav/Develop/middle.messenger.praktikum.yandex/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/modules/button" />
+      <recent name="$PROJECT_DIR$/src/shared/errorBlock" />
+      <recent name="$PROJECT_DIR$/src/modules/link" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="[sprint_1] added basic layout">
+      <option name="closed" value="true" />
+      <created>1720909909178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720909909178</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[sprint_1] fix build error">
+      <option name="closed" value="true" />
+      <created>1720913401966</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720913401966</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[sprint_1] merge changes from develop">
+      <option name="closed" value="true" />
+      <created>1720940095915</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720940095915</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[sprint_1] added prettier rules">
+      <option name="closed" value="true" />
+      <created>1720951787107</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720951787107</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[sprint_1] fix tests">
+      <option name="closed" value="true" />
+      <created>1720952119830</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720952119830</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd279951-f565-4d94-85a2-5387a8627b08" name="Changes" comment="[sprint_1] fix tests" />
+      <created>1721022334683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721022334683</updated>
+      <workItem from="1721022336229" duration="570000" />
+      <workItem from="1721022914934" duration="30260000" />
+    </task>
+    <task id="LOCAL-00006" summary="[sprint_1] update dev branch for deployment">
+      <option name="closed" value="true" />
+      <created>1721071814434</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721071814434</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[sprint_1] added basic layout" />
+    <MESSAGE value="[sprint_1] fix build error" />
+    <MESSAGE value="[sprint_1] merge changes from develop" />
+    <MESSAGE value="[sprint_1] added prettier rules" />
+    <MESSAGE value="[sprint_1] fix tests" />
+    <MESSAGE value="[sprint_1] внес правки согласно замечаниям на ревью" />
+    <MESSAGE value="[sprint_1] update dev branch for deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="[sprint_1] update dev branch for deployment" />
+  </component>
+</project>

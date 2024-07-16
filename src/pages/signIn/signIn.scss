@@ -1,0 +1,73 @@
+@import url('../../style.scss');
+
+@mixin center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.signMain {
+  @include center;
+  height: 100vh;
+  flex-direction: column;
+  gap: 30px;
+}
+.signWrapper {
+  @include center;
+  width: 340px;
+  height: 615px;
+  box-shadow: var(--shadow);
+  border-radius: 12px 0 0 0;
+  flex-direction: column;
+
+  h2 {
+    font-size: 20px;
+    padding-bottom: 30px;
+  }
+
+  .signForm {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+}
+
+.signInput {
+  width: 280px;
+  height: 40px;
+  border-bottom: 1px solid var(--user-primary);
+  padding: 0 10px;
+  .customInputLabel {
+    width: 27px;
+    height: 9px;
+    font-size: 9px;
+    color: var(--user-grey);
+  }
+  .customInputField {
+    border: none;
+    outline: none;
+    font-size: 13px;
+  }
+  .errorMessage {
+    color: var(--user-red);
+    font-size: 8px;
+    padding-top: 10px;
+  }
+}
+
+.signButton {
+  width: 280px;
+  height: 37px;
+  border-radius: 8px;
+  font-size: 13px;
+  color: var(--white);
+  border: 0 none;
+  background-color: var(--user-primary);
+  margin-top: 30px;
+}
+
+.signLink {
+  font-size: 11px;
+  color: var(--user-primary);
+  text-decoration: none;
+  padding-top: 15px;
+}

@@ -1,0 +1,76 @@
+@import url('../../style.scss');
+
+.chatContainer {
+  display: flex;
+  justify-content: center;
+  width: 310px;
+}
+
+.chatContainer:hover {
+  background-color: rgba(228, 237, 253, 0.5);
+  cursor: pointer;
+}
+
+.chatAvatar {
+  width: 47px;
+  height: 47px;
+  z-index: -1;
+}
+
+.chatItem {
+  display: flex;
+  width: 290px;
+  justify-content: space-between;
+  padding: 10px 0 10px 0;
+  border-top: 2px solid var(--user-light-grey);
+
+  .chatWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+    .userName {
+      font-size: 13px;
+      color: var(--black);
+      font-weight: 600;
+    }
+
+    .chatMessage {
+      width: 200px;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      font-size: 12px;
+      color: var(--user-grey);
+    }
+
+    .chatMessage strong {
+      color: var(--black);
+    }
+  }
+
+  .chatInfo {
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+
+    .sendingTime {
+      font-size: 13px;
+      color: var(--user-grey);
+    }
+
+    .counterMsg {
+      background-color: var(--user-primary);
+      border-radius: 50%;
+      width: 20px;
+      height: 20px;
+      text-align: center;
+      line-height: 20px;
+      font-size: 11px;
+      color: var(--white);
+    }
+  }
+}
+

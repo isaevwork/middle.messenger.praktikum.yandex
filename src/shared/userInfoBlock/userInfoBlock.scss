@@ -1,0 +1,64 @@
+@mixin editing {
+  display: flex;
+  color: var(--user-primary);
+  text-decoration: none;
+  border-bottom: 2px solid var(--user-light-grey);
+  padding: 10px 0;
+  font-size: 13px;
+}
+
+.userInfoBlockContainer {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 40px;
+
+  .userInfoBlockWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+    .userEditedBlock {
+      .infoItem:nth-child(12) {
+        border-bottom: none;
+      }
+    }
+
+    h4 {
+      font-size: 16px;
+      font-weight: 600;
+      padding-top: 20px;
+    }
+  }
+
+  .userAvatar {
+    width: 130px;
+    height: 130px;
+  }
+
+  .userSettingsBlock {
+    padding-top: 30px;
+    justify-content: space-between;
+    min-width: 510px;
+    height: 26px;
+  }
+
+  .changeInfoLink {
+    @include editing
+  }
+
+  .changePassLink {
+    @include editing
+  }
+
+  .logoutLink {
+    display: flex;
+    padding-top: 13px;
+    font-size: 13px;
+    color: var(--warning-color);
+    text-decoration: none;
+  }
+}

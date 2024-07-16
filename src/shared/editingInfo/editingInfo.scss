@@ -1,0 +1,79 @@
+@import url(../../style.scss);
+
+.profileInfoFormContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex: 1;
+
+
+  .profileInfoFormWrapper {
+    width: 510px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .InfoAvatar {
+      width: 130px;
+      height: 130px;
+      margin-bottom: 60px;
+    }
+
+    .profileInfoForm {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+
+
+      .infoClass {
+        display: flex;
+        align-items: center;
+        border-bottom: 2px solid var(--user-light-grey);
+        padding: 10px 0;
+
+        &:nth-child(6) {
+          border-bottom: none;
+        }
+
+        span {
+          white-space: nowrap;
+          font-size: 13px;
+          color: var(--user-black);
+
+        }
+
+        .inputWrapper {
+          display: flex;
+          width: 100%;
+          justify-content: flex-end;
+
+          input {
+            width: 100%;
+            border: none;
+            font-size: 13px;
+            color: var(--user-black);
+          }
+        }
+      }
+
+      .profileSettingsBlock {
+        display: flex;
+        justify-content: center;
+        padding-right: 20px;
+
+        .profileSettingsButton {
+          margin-top: 60px;
+          width: 280px;
+          height: 35px;
+          color: white;
+          background-color: var(--user-primary);
+          border-radius: 8px;
+          border: none;
+          font-size: 14px;
+          cursor: pointer;
+        }
+      }
+    }
+  }
+}

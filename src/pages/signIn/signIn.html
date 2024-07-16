@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+  />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <link rel="stylesheet" href="signIn.scss" />
+  <title>Регистрация</title>
+</head>
+<body>
+<main class="signMain">
+  <div class="signWrapper">
+    <h2>Регистрация</h2>
+    <form class="signForm">
+      {{> formInput/formInput class="signInput" label="Почта" name="email" type="text" placeholder="pochta@yandex.ru" showError=false }}
+      {{> formInput/formInput class="signInput" label="Логин" name="login" type="text" placeholder="ivanivanov" showError=false }}
+      {{> formInput/formInput class="signInput" label="Имя" name="first_name" type="text" placeholder="Иван" showError=false }}
+      {{> formInput/formInput class="signInput" label="Фамилия" name="second_name" type="text" placeholder="Иванов" showError=false }}
+      {{> formInput/formInput class="signInput" label="Телефон" name="phone" type="phone" placeholder="+7 (999) 999-99-99" showError=false }}
+      {{> formInput/formInput class="signInput" label="Пароль" name="password" type="password" placeholder="••••••••••••" showError=false }}
+      {{> formInput/formInput class="signInput" label="Пароль (ещё раз)" name="password" type="password" placeholder="••••••••••••" warning="Пароли несовпадают" showError=true }}
+      {{> button/button class="signButton" text="Зарегистрироваться" type="submit" onclick="/" }}
+    </form>
+    {{> link/link class="signLink" text="Войти" href="/" }}
+  </div>
+</main>
+</body>
+</html>
